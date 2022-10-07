@@ -7,3 +7,5 @@ use this: https://dev.to/robertobutti/how-to-start-building-your-static-website-
 
 https://www.hover.com/domains/results?q=rcbias.com
 Looks like this is available
+
+https://nicolas-van.github.io/easy-markdown-to-github-pages/
