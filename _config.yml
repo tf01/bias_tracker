@@ -1,3 +1,10 @@
 theme: jekyll-theme-minimal
 title: Bias Tracker
 description: Tracking all biases here.
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - README.md
