@@ -18,4 +18,4 @@ Manually managed by me (Tommy), so let me know if something is out of date `;)`.
 | RC | Suisei bias | 19 | +10 bang bang |
 |  | Positive Comet mentions | 1 | - |
 |  | Positive Calli mentions | 0 | - |
-| Kue | Camellia mentions | 14 | +10 on request from RC |
+| Kue | Camellia mentions | 14 | +10 from RC |
