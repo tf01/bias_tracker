@@ -1,5 +1,5 @@
-# Bias Tracker
 Only tracking mentions in watchalongs.
+
 Manually managed by me (Tommy), so let me know if something is out of date `;)`.
 
 ## Totals
