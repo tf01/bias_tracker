@@ -3,6 +3,7 @@ Only tracking mentions in watchalongs.
 Manually managed by me (Tommy), so let me know if something is out of date `;)`.
 
 ## Totals
+
 | Perpetrator | Subject | Count | Bonus Points |
 | - | - | - | - |
 | RC | Suisei bias | 34 | +110 |
