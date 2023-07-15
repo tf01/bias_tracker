@@ -30,7 +30,7 @@ Manually managed by me (Tommy), so let me know if something is out of date `;)`.
 | RC | Positive Calli mentions | 0 |  |
 | Kue | Camellia mentions | 14 | +10 from RC |
 
-### 2023-2-25
+### 2023-02-25
 
 | Perpetrator | Subject | Count | Notes |
 | - | - | - | - |
@@ -41,3 +41,13 @@ Manually managed by me (Tommy), so let me know if something is out of date `;)`.
 | RC | Michizure Anti-bias | 6 | "I like this part" - RC |
 | Kue | Camellia mentions | 0 | Absent :( |
 | Anyone | Camellia mentions | 1 |  |
+
+
+### 2023-07-15
+
+| Perpetrator | Subject | Count | Notes |
+| - | - | - | - |
+| Kue | Camellia mentions | 6 | |
+| RC | Suisei bias | 4 |  |
+| RC | Positive Calli mentions | 0 |  |
+| RC | Positive Comet mentions | 0 |  |
