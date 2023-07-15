@@ -47,7 +47,7 @@ Manually managed by me (Tommy), so let me know if something is out of date `;)`.
 
 | Perpetrator | Subject | Count | Notes |
 | - | - | - | - |
-| Kue | Camellia mentions | 6 | |
-| RC | Suisei bias | 4 |  |
+| Kue | Camellia mentions | 7 | |
+| RC | Suisei bias | 5 |  |
 | RC | Positive Calli mentions | 0 |  |
 | RC | Positive Comet mentions | 0 |  |
