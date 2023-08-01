@@ -51,3 +51,9 @@ Manually managed by me (Tommy), so let me know if something is out of date `;)`.
 | RC | Suisei bias | 5 |  |
 | RC | Positive Calli mentions | 0 |  |
 | RC | Positive Comet mentions | 0 |  |
+
+### 2023-07-31
+| Perpetrator | Subject | Count | Notes |
+| - | - | - | - |
+| RC | Suisei bias | 3 | Bonus! |
+
