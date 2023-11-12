@@ -57,3 +57,8 @@ Manually managed by me (Tommy), so let me know if something is out of date `;)`.
 | - | - | - | - |
 | RC | Suisei bias | 3 | Bonus! |
 
+### 2023-11-12
+| Perpetrator | Subject | Count | Notes |
+| - | - | - | - |
+| RC | Suisei bias | 2 |  |
+
